@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Onebox\2022 Tasks\Q1\Java Learning\Java Projects\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+519420663.index
+54703828.index
